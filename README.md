@@ -190,7 +190,7 @@ ck_coupled.plot(
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Scientific References
+## References
 
 1. Motahari, H., Noudehi, M. G., Jamali, T., & Jafari, G. R. (2024). Generalization of Chapman-Kolmogorov equation to two coupled processes. Research Square. [https://doi.org/10.21203/rs.3.rs-3993646/v1](https://doi.org/10.21203/rs.3.rs-3993646/v1)
 
