@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Distribution / packaging
+*.tar.gz
+*.tgz
+*.zip
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Documentation
+docs/_build/
+docs/generated/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.log
+
+# Project specific
+*.pdf  # Generated plots
+*.png  # Generated plots
+data/  # Data directory if used
+results/  # Results directory if used 

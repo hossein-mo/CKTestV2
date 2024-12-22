@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.defaultFormatter": "ms-python.python",
+		"editor.formatOnSave": true,
+		"python.formatting.provider": "yapf",
+		"python.formatting.yapfArgs": ["--style", "{based_on_style: google, column_limit: 99}"]
+	}
+}
